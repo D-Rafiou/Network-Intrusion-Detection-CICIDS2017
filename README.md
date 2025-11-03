@@ -1,6 +1,6 @@
 # Network Intrusion Detection System
 
-Production-ready multi-class intrusion detection achieving 96.4% macro-F1 on CICIDS2017 dataset (2.8M flows, 10 attack types).
+Production-ready multi-class intrusion detection achieving 98% macro-F1 on CICIDS2017 dataset (2.2M flows, 10 attack types).
 
 ## Problem
 
